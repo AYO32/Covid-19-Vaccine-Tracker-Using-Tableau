@@ -6,3 +6,5 @@ This project also embeds many tableau features.
 ![dashboard 1](https://user-images.githubusercontent.com/91481737/218260949-37ab928e-66fd-4d48-8aa6-d42900db942f.PNG)
 
 ![dashboard 2](https://user-images.githubusercontent.com/91481737/218261048-b8d7840f-51f1-4412-95f9-f8d38619b938.PNG)
+
+![dashboard 3](https://user-images.githubusercontent.com/91481737/218261157-1a9eb8a8-e306-4bc7-b346-1ec717a62eca.PNG)
